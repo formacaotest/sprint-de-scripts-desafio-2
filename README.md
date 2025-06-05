@@ -1,4 +1,4 @@
-# Sprint de Scripts - Desafio 1
+# Sprint de Scripts - Desafio 2
 
 Neste desafio o formando tem de criar, usando Python, pastas com o seguinte padrão:
 
