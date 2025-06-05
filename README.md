@@ -14,6 +14,8 @@ Exemplo:
 
 mas só cria as suficientes para colocar um dos ficheiros criados anteriormente em cada pasta.
 
+<strong> Pode usar o codigo do desafio 1 para criar os ficheiros e de seguida executar o resto do codigo<strong>
+
 Exemplo:
 
 ```
